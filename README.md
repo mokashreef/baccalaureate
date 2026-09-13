@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.svg" width="120" height="120" alt="منصة البكالوريا السورية الذكية Logo" />
+  <img src="https://i.ibb.co/Kc3dBBZv/a2555b9b-3169-4fdb-b7e1-fdceedecaf6b.png" width="120" height="120" alt="منصة البكالوريا السورية الذكية Logo" />
 </p>
 
 <h1 align="center">منصة البكالوريا السورية الذكية<br><sub>Syrian Baccalaureate Platform</sub></h1>
